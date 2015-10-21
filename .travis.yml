@@ -6,7 +6,8 @@ notifications:
   irc:
     channels:
       - secure: okXHSI3TOJTupFwWqigN1quLhwP6c/pGGj/i50jJCL08J/uFO11HmNnMsD2GYZoRS/JYBcoQnVEihLCQPeztGh+xtu/FwS5d7/lR/6599GeTgRM8r8LfxQbDN8uzX/2NoayDJlJRUdYeRBfDv740gMaM0dGe8D0/pH1hMYsS1IkvkE9DTvNHcUdXArVx4a63f4UqNKCqt+SDl6EXo7wZgQPqaBNoWZM8JB4OCfaQVXAZS7jBzBPhxO1G52NOTbsBeY0W6KWixgipDAmYlTE+eecDyP0gJVnBPMWjxZbtP51EZd8D2fOumxijVT8E4juCcoAE9A2OWnwMGZ9jxW+yUwUD4It+fAFvSC2/a2KakFGzrDGvJjgimyK58lj+t85wxkg9D6PHj1YE6v7Uz25yA9n/pcUlgo/kj6qBLSsqM2KM+tZDX2UqAa0fn+RV2DZW32+AtYOi3ZDS3JMIoxyK2REklqwZjMoxXJO+wXU4q4SNUDJwIokjhtJwIRgh9MS3JOMgxKsYH7Y3bSL/CW/C33148DyDh1wlHauEvfh/sA8BiDLCDSpLLllwlc0C09f/mF9DqPsssCR+AzqCQx/wOipSh7EALg2Od62VTE3K4YkCrsD4O3HkM2F+0EEbuTGq/CqjPuomOL9wREEmFgecer6sx4cjz9AvfoE6IwDF8M4=
-    nick: Cardstock
+    nick:
+      - Cardstock
     on_success: always
     on_failure: always
     password:
